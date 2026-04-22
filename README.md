@@ -127,7 +127,6 @@ HashCrack dibuat untuk **keperluan CTF, forensics, dan edukasi keamanan siber**.
 
 - [SubSleuth](https://github.com/AhanDotID/subsleuth) - Subdomain finder
 - [DirHunt](https://github.com/AhanDotID/dirhunt) - Directory bruteforcer
-- [WhoLookup](https://github.com/AhanDotID/wholookup) - WHOIS + IP OSINT
 
 ---
 
